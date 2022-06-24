@@ -38,7 +38,7 @@ cmake \
 	-Dclient=OFF \
 	-Dserver=ON \
 	-Dice=ON \
-	-Dtests=ON \
+	-Dtests=OFF \
 	-Dwarnings-as-errors=OFF \
 	-Dzeroconf=OFF \
 	$MUMBLE_CMAKE_ARGS \
